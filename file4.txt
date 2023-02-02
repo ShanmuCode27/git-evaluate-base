@@ -9,3 +9,4 @@ File 4
         Added random text3
         Added random text4
         This change is done is master branch therefore will generate a merge conflict
+
